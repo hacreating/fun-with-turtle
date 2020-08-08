@@ -1,6 +1,7 @@
 # fun-with-turtle
-making of square using turtle in python programming
-import turtle
+making of square using turtle in python programming,
+
+#import turtle
 
 shashwat=turtle.Turtle()
 shashwat.forward(100)
